@@ -1,0 +1,7 @@
+UserID,MovieID,Age,Gender,Occupation,Action,Adventure,Animation,Children's,Comedy,Crime,Documentary,Drama,Fantasy,Film-Noir,Horror,Musical,Mystery,Romance,Sci-Fi,Thriller,War,Western,unknown,Rating
+747,327,19,M,other,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4
+559,508,69,M,executive,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+488,190,48,M,technician,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,5
+92,1023,32,M,entertainment,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+320,825,19,M,student,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4
+234,199,60,M,retired,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,5
